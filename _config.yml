@@ -1,0 +1,21 @@
+# Site settings
+title: Flatiron School Blog
+header-img: img/home-bg.png
+email: craig.schiff@gmail.com
+copyright_name: craigschiff
+description: > # this means to ignore newlines until "baseurl:"
+  What I am Learning
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  craigschiff
+learn_profile: craigschiff
+email_username: craig.schiff@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
