@@ -18,11 +18,11 @@ locations.each do |place, coordinates|
 				@location_data = coordinates
 				run
 				dummy = "yay"
-		 end
- end
- if location == "exit"
+			end
+end
+if location == "exit"
 		exit
- elsif dummy == nil && location != "exit"
+elsif dummy == nil && location != "exit"
 		puts "Please try again."
 		call
 end
@@ -35,9 +35,10 @@ location = get_user_input
 if locations.keys.include?(location)
 	 locations.each do |place, coordinates|
 				if location == place.downcase
-				@location_data = coordinates
-				run
-		 end
+				   @location_data = coordinates
+				   run
+				end
+		end
 elsif location == "exit"
 		exit
 elsif location != "exit"
