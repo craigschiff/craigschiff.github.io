@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning to Code - debugging beginner mistakes"
-date:   2017-02-15 01:44:10 +0000
+date:   2017-02-14 20:44:11 -0500
 ---
 
 
@@ -13,7 +13,7 @@ Our first instinct was to create a dummy variable that we can flip from nil to t
   
 	location = get_user_input
 	dummy = nil
-  locations.each do |place, coordinates|
+	locations.each do |place, coordinates|
 	     if location == place.downcase
           @location_data = coordinates
           run
