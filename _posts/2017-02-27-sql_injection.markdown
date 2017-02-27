@@ -53,5 +53,5 @@ Netsparker has tons of resources on [SQL Injection](https://www.netsparker.com/w
 
 [OWASP](https://www.owasp.org/index.php/SQL_Injection) has long been spreading awareness
 
-And rails specific vulnerabilities are detailed here:  http://rails-sqli.org/
+And rails specific vulnerabilities are detailed here:  [rails-sqli](http://rails-sqli.org/)
 
