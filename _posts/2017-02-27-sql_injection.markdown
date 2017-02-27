@@ -42,7 +42,7 @@ This method names the column rather than passing it through as a quote limiting 
 User.where(["name = ?", "#{params[:name]}"])
 ```
 
-Using parameterized variables offers substantial protection against SQL injection. This allows for sanitization via Regular Expression before sending a command along to the database. When this is uniform across the web user's sensitive information will be much safer. 
+Using parameterized variables offers substantial protection against SQL injection. A user first defines the command and then passes in the variable, allowing SQL to distinguish that from the rest of the command and thus limit the scope of the variable. For example, an 'a' OR 1=1 statement that is passed through as a parameter would not be interpreted as either 'a' or '1=1', but instead as an input that reads "a OR 1=1" and thus would find no match. Developers should be sanitizing all commands via parameterized statements before sending to the database. When this is uniform across the web user's sensitive information will be much safer. 
 
 
 **Resources**: 
