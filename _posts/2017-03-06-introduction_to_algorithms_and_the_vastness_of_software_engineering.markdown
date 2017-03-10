@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introduction to algorithms, and the vastness of software engineering"
-date:   2017-03-06 21:59:52 +0000
+title:  "Introduction to algorithms, and the vastness of programming"
+date:   2017-03-06 16:59:53 -0500
 ---
 
 
@@ -13,5 +13,5 @@ Through my development process I read about new components of ruby, try to under
 
 While I am thrilled Flatiron exposed me to this other aspect of computer science, it also leads to a familiar dilemma. We have a fulsome curriculum as is, but the world of programming and computer science is so vast and so interesting that I often find myself branching off what I am learning in class to stuff only tangentially related. I now find myself doing labs about Rails but eager to get back to algorithms stuff and looking for other resources to learn more about it. This is similar to how I felt about scripting and SQL injection last week, and countless other subjects on a daily basis. My general approach to this is that learning more about programming will pay dividends regardless, there is real value in being generally interested in something, and these tangents are worth pursuing. But at the same time the number of tangents that I find engaging are so many that to watch videos and tutorials about all of them is essentially impossible. Thus, I am consistently fighting myself to ensure I am focused on productive topics and learning in a way that is efficient and not just aimless browsing. 
 
-Overall this is a positive. The number of interesting and varied branches off of computer science make me confident I will be able to find interesting computer science work and topics for the rest of my career. This is especially valuable to someone like myself, who is inherently uncomfortable with mastery and generally always looking to try something new. I just need to remind myself that I will have plenty of time to learn more about all of these topics eventually, and I do not always need to pursue them immediately. That being said, I have found an algorithms book and am looking forward to learning more about algorithms over the next few weeks. 
+Overall this is definitely a positive. The number of interesting and varied branches off of computer science make me confident I will be able to find interesting computer science work and topics for the rest of my career. This is especially valuable to someone like myself, who is inherently uncomfortable with mastery and generally always looking to try something new. I just need to remind myself that I will have plenty of time to learn more about all of these topics eventually, and I do not always need to pursue them immediately. Also that learning everything about computer science and programming is impossible as the depth is infinite. As our instructor said, the more you learn the more you realize you dont know.  Even so, I have found an algorithms book and am looking forward to learning more about algorithms over the next few weeks. 
 
