@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Learning to Code"
+date:   2017-04-04 14:04:25 +0000
+---
+
+
+For some reason being a developer and understanding programming is this foreign concept that non-programmers can only comprehend in a very abstract sense. I certainly recognize it since i was there myself. And now i keep getting the question ‘are you a developer now’? do you “know how to code”?  And in the process of learning some things about programming it is very obvious the question is complete bullshit. Some people do ‘know how to code’ i suppose. I mean from my perspective it certainly seems like certain developers can do anything and know everything. And to a certain point I am sure they do. 
+But at the same time I am reminded every day how vast this is. It is good to know some stuff - if you have to look everything up and every piece of the puzzle was a big challenge you would not be very productive. But at this same time this isn’t binary. There isn’t a day where I will become a ‘programmer’. Instead, i imagine it will all be incremental. I know right now a lot more than i knew 8 weeks ago. And in a few weeks i will know a lot more than I do today. And I expect that incremental learning will continue long past the time i start being employed as a developer. Yes, I can create certain things today - though i would certainly get stuck along the way and have to look things up. Yes, i certainly know about the request response cycle now, and how the internet works. I understand what an API is and how to use it. And yet at the same time the more i learn the more aware I am of how much I don’t know. The idea of ‘knowing how to code’ being a binary question is just absurd. 
+And the extension of that is people know i have been working hard and assume in 8 weeks i will be ‘done’. The assumption being that learning to code ends. In contrast, my guess is five weeks from now will be no different than four or three. though i will miss stevens lectures every day and will have to start sending out some applications. 
