@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning React"
-date:   2017-04-10 20:58:59 +0000
+date:   2017-04-10 16:59:00 -0400
 ---
 
 
